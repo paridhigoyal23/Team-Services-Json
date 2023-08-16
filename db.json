@@ -29,16 +29,6 @@
         "id": 4
       }
     ],
-    "employees":[
-        {
-            "email": "EMP024@test.com",
-            "password": "EMP024@1234",
-            "role": "viewer",
-            "EmpId": "EMP024",
-            "id": 4
-          }
-    ],
-
     "employeesData": [
       {
         "EmpId": "EMP029",
