@@ -1,311 +1,311 @@
 {
-    "users": [
-      {
-        "EmpId": "EMP027",
-        "email": "pernikaaggarwal23@gmail.com",
-        "password": "Work@4321",
-        "role": "viewer",
-        "id": 1
-      },
-      {
-        "EmpId": "EMP1000",
-        "email": "manager@gmail.com",
-        "password": "Work@4321",
-        "role": "manager",
-        "id": 2
-      },
-      {
-        "EmpId": "EMP1006",
-        "email": "admin@gmail.com",
-        "password": "Work@4321",
-        "role": "admin",
-        "id": 3
-      },
-      {
-        "email": "EMP024@test.com",
-        "password": "EMP024@1234",
-        "role": "viewer",
-        "EmpId": "EMP024",
-        "id": 4
-      }
-    ],
-    "employeesData": [
-      {
-        "EmpId": "EMP029",
-        "Name": "Pernika",
-        "Grade": "A3",
-        "Designation": "Jn Software Engg",
-        "Project": "Team Service",
-        "Skills": ".Net,Java,Spring Boot,Angular",
-        "Location": "Noida",
-        "ContactNo": "94772-88272",
-        "Icons": "",
-        "id": 1
-      },
-      {
-        "EmpId": "EMP028",
-        "Name": "Megha",
-        "Grade": "B2",
-        "Designation": "Senior software Engg",
-        "Project": "Team Service ",
-        "Skills": "Angular",
-        "Location": "Noida",
-        "ContactNo": "749384334",
-        "id": 2
-      },
-      {
-        "EmpId": "EMP024",
-        "Name": "Yash",
-        "Grade": "A3",
-        "Designation": "Senior Software Engg",
-        "Project": "Java",
-        "Skills": "Java",
-        "Location": "Noida",
-        "ContactNo": "78544-65645",
-        "id": 3
-      },
-      {
-        "EmpId": "EMP024",
-        "Name": "Yash",
-        "Grade": "A1",
-        "Designation": "Jn Software Engg",
-        "Project": "Student Management",
-        "Skills": "Excel",
-        "Location": "bdueuf",
-        "ContactNo": "dkjhjf",
-        "id": 4
-      }
-    ],
-    "trainingData": [
-      {
-        "TrainingTitle": "Javascript",
-        "TrainingType": "Corporate",
-        "PlannedDate": "2023-08-16T18:30:00.000Z",
-        "StartDate": "2023-08-16T18:30:00.000Z",
-        "EndDate": "2023-08-29T18:30:00.000Z",
-        "Reference": "",
-        "Name": "Megha(EMP028)",
-        "Status": "In Progress",
-        "Mode": "offline",
-        "id": 1
-      },
-      {
-        "TrainingTitle": "Java",
-        "TrainingType": "Corporate",
-        "PlannedDate": "2023-08-16T18:30:00.000Z",
-        "StartDate": "2023-08-16T18:30:00.000Z",
-        "EndDate": "2023-08-29T18:30:00.000Z",
-        "Reference": "https://fontawesome.com/icons/arrow-up-right-from-square?f=classic&s=solid",
-        "Name": "Yash(EMP024)",
-        "Status": "In Progress",
-        "Mode": "offline",
-        "id": 2
-      }
-    ],
-    "employeeAttendances": [
-      {
-        "name": "Vishal",
-        "TO": "18",
-        "TH": "3",
-        "TL": "0",
-        "month": "2023-7",
-        "values": [
-          {
-            "2023-07-01": ""
-          },
-          {
-            "2023-07-02": ""
-          },
-          {
-            "2023-07-03": "O"
-          },
-          {
-            "2023-07-04": "O"
-          },
-          {
-            "2023-07-05": "O"
-          },
-          {
-            "2023-07-06": "O"
-          },
-          {
-            "2023-07-07": "O"
-          },
-          {
-            "2023-07-08": ""
-          },
-          {
-            "2023-07-09": ""
-          },
-          {
-            "2023-07-10": "O"
-          },
-          {
-            "2023-07-11": "O"
-          },
-          {
-            "2023-07-12": "O"
-          },
-          {
-            "2023-07-13": "O"
-          },
-          {
-            "2023-07-14": "O"
-          },
-          {
-            "2023-07-15": ""
-          },
-          {
-            "2023-07-16": ""
-          },
-          {
-            "2023-07-17": "O"
-          },
-          {
-            "2023-07-18": "O"
-          },
-          {
-            "2023-07-19": "O"
-          },
-          {
-            "2023-07-20": "O"
-          },
-          {
-            "2023-07-21": "O"
-          },
-          {
-            "2023-07-22": ""
-          },
-          {
-            "2023-07-23": ""
-          },
-          {
-            "2023-07-24": "H"
-          },
-          {
-            "2023-07-25": "O"
-          },
-          {
-            "2023-07-26": "O"
-          },
-          {
-            "2023-07-27": "H"
-          },
-          {
-            "2023-07-28": "O"
-          },
-          {
-            "2023-07-29": ""
-          },
-          {
-            "2023-07-30": ""
-          },
-          {
-            "2023-07-31": "H"
-          }
-        ]
-      },
-      {
-        "name": "Paridhi",
-        "TO": "17",
-        "TH": "3",
-        "TL": "1",
-        "month": "2023-7",
-        "values": [
-          {
-            "2023-07-01": ""
-          },
-          {
-            "2023-07-02": ""
-          },
-          {
-            "2023-07-03": "L"
-          },
-          {
-            "2023-07-04": "O"
-          },
-          {
-            "2023-07-05": "O"
-          },
-          {
-            "2023-07-06": "O"
-          },
-          {
-            "2023-07-07": "O"
-          },
-          {
-            "2023-07-08": ""
-          },
-          {
-            "2023-07-09": ""
-          },
-          {
-            "2023-07-10": "O"
-          },
-          {
-            "2023-07-11": "O"
-          },
-          {
-            "2023-07-12": "O"
-          },
-          {
-            "2023-07-13": "O"
-          },
-          {
-            "2023-07-14": "O"
-          },
-          {
-            "2023-07-15": ""
-          },
-          {
-            "2023-07-16": ""
-          },
-          {
-            "2023-07-17": "O"
-          },
-          {
-            "2023-07-18": "O"
-          },
-          {
-            "2023-07-19": "O"
-          },
-          {
-            "2023-07-20": "O"
-          },
-          {
-            "2023-07-21": "O"
-          },
-          {
-            "2023-07-22": ""
-          },
-          {
-            "2023-07-23": ""
-          },
-          {
-            "2023-07-24": "H"
-          },
-          {
-            "2023-07-25": "O"
-          },
-          {
-            "2023-07-26": "O"
-          },
-          {
-            "2023-07-27": "H"
-          },
-          {
-            "2023-07-28": "O"
-          },
-          {
-            "2023-07-29": ""
-          },
-          {
-            "2023-07-30": ""
-          },
-          {
-            "2023-07-31": "H"
-          }
-        ]
-      }
-    ]
-  }
+  "users": [
+    {
+      "EmpId": "EMP029",
+      "email": "pernikaaggarwal23@gmail.com",
+      "password": "Work@4321",
+      "role": "viewer",
+      "id": 1
+    },
+    {
+      "EmpId": "EMP1000",
+      "email": "manager@gmail.com",
+      "password": "Work@4321",
+      "role": "manager",
+      "id": 2
+    },
+    {
+      "EmpId": "EMP1006",
+      "email": "admin@gmail.com",
+      "password": "Work@4321",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "email": "EMP024@test.com",
+      "password": "EMP024@1234",
+      "role": "viewer",
+      "EmpId": "EMP024",
+      "id": 4
+    }
+  ],
+  "employeesData": [
+    {
+      "EmpId": "EMP029",
+      "Name": "Pernika",
+      "Grade": "A3",
+      "Designation": "Jn Software Engg",
+      "Project": "Team Service",
+      "Skills": ".Net,Java,Spring Boot,Angular",
+      "Location": "Noida",
+      "ContactNo": "94772-88272",
+      "Icons": "",
+      "id": 1
+    },
+    {
+      "EmpId": "EMP028",
+      "Name": "Megha",
+      "Grade": "B2",
+      "Designation": "Senior software Engg",
+      "Project": "Team Service ",
+      "Skills": "Angular",
+      "Location": "Noida",
+      "ContactNo": "749384334",
+      "id": 2
+    },
+    {
+      "EmpId": "EMP024",
+      "Name": "Yash",
+      "Grade": "A3",
+      "Designation": "Senior Software Engg",
+      "Project": "Java",
+      "Skills": "Java",
+      "Location": "Noida",
+      "ContactNo": "78544-65645",
+      "id": 3
+    },
+    {
+      "EmpId": "EMP024",
+      "Name": "Yash",
+      "Grade": "A1",
+      "Designation": "Jn Software Engg",
+      "Project": "Student Management",
+      "Skills": "Excel",
+      "Location": "bdueuf",
+      "ContactNo": "dkjhjf",
+      "id": 4
+    }
+  ],
+  "trainingData": [
+    {
+      "TrainingTitle": "Javascript",
+      "TrainingType": "Corporate",
+      "PlannedDate": "2023-08-16T18:30:00.000Z",
+      "StartDate": "2023-08-16T18:30:00.000Z",
+      "EndDate": "2023-08-29T18:30:00.000Z",
+      "Reference": "",
+      "Name": "Megha(EMP028)",
+      "Status": "In Progress",
+      "Mode": "offline",
+      "id": 1
+    },
+    {
+      "TrainingTitle": "Java",
+      "TrainingType": "Corporate",
+      "PlannedDate": "2023-08-16T18:30:00.000Z",
+      "StartDate": "2023-08-16T18:30:00.000Z",
+      "EndDate": "2023-08-29T18:30:00.000Z",
+      "Reference": "https://fontawesome.com/icons/arrow-up-right-from-square?f=classic&s=solid",
+      "Name": "Yash(EMP024)",
+      "Status": "In Progress",
+      "Mode": "offline",
+      "id": 2
+    }
+  ],
+  "employeeAttendances": [
+    {
+      "name": "Vishal",
+      "TO": "18",
+      "TH": "3",
+      "TL": "0",
+      "month": "2023-7",
+      "values": [
+        {
+          "2023-07-01": ""
+        },
+        {
+          "2023-07-02": ""
+        },
+        {
+          "2023-07-03": "O"
+        },
+        {
+          "2023-07-04": "O"
+        },
+        {
+          "2023-07-05": "O"
+        },
+        {
+          "2023-07-06": "O"
+        },
+        {
+          "2023-07-07": "O"
+        },
+        {
+          "2023-07-08": ""
+        },
+        {
+          "2023-07-09": ""
+        },
+        {
+          "2023-07-10": "O"
+        },
+        {
+          "2023-07-11": "O"
+        },
+        {
+          "2023-07-12": "O"
+        },
+        {
+          "2023-07-13": "O"
+        },
+        {
+          "2023-07-14": "O"
+        },
+        {
+          "2023-07-15": ""
+        },
+        {
+          "2023-07-16": ""
+        },
+        {
+          "2023-07-17": "O"
+        },
+        {
+          "2023-07-18": "O"
+        },
+        {
+          "2023-07-19": "O"
+        },
+        {
+          "2023-07-20": "O"
+        },
+        {
+          "2023-07-21": "O"
+        },
+        {
+          "2023-07-22": ""
+        },
+        {
+          "2023-07-23": ""
+        },
+        {
+          "2023-07-24": "H"
+        },
+        {
+          "2023-07-25": "O"
+        },
+        {
+          "2023-07-26": "O"
+        },
+        {
+          "2023-07-27": "H"
+        },
+        {
+          "2023-07-28": "O"
+        },
+        {
+          "2023-07-29": ""
+        },
+        {
+          "2023-07-30": ""
+        },
+        {
+          "2023-07-31": "H"
+        }
+      ]
+    },
+    {
+      "name": "Paridhi",
+      "TO": "17",
+      "TH": "3",
+      "TL": "1",
+      "month": "2023-7",
+      "values": [
+        {
+          "2023-07-01": ""
+        },
+        {
+          "2023-07-02": ""
+        },
+        {
+          "2023-07-03": "L"
+        },
+        {
+          "2023-07-04": "O"
+        },
+        {
+          "2023-07-05": "O"
+        },
+        {
+          "2023-07-06": "O"
+        },
+        {
+          "2023-07-07": "O"
+        },
+        {
+          "2023-07-08": ""
+        },
+        {
+          "2023-07-09": ""
+        },
+        {
+          "2023-07-10": "O"
+        },
+        {
+          "2023-07-11": "O"
+        },
+        {
+          "2023-07-12": "O"
+        },
+        {
+          "2023-07-13": "O"
+        },
+        {
+          "2023-07-14": "O"
+        },
+        {
+          "2023-07-15": ""
+        },
+        {
+          "2023-07-16": ""
+        },
+        {
+          "2023-07-17": "O"
+        },
+        {
+          "2023-07-18": "O"
+        },
+        {
+          "2023-07-19": "O"
+        },
+        {
+          "2023-07-20": "O"
+        },
+        {
+          "2023-07-21": "O"
+        },
+        {
+          "2023-07-22": ""
+        },
+        {
+          "2023-07-23": ""
+        },
+        {
+          "2023-07-24": "H"
+        },
+        {
+          "2023-07-25": "O"
+        },
+        {
+          "2023-07-26": "O"
+        },
+        {
+          "2023-07-27": "H"
+        },
+        {
+          "2023-07-28": "O"
+        },
+        {
+          "2023-07-29": ""
+        },
+        {
+          "2023-07-30": ""
+        },
+        {
+          "2023-07-31": "H"
+        }
+      ]
+    }
+  ]
+}
