@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "EmpId": "EMP029",
+      "EmpId": "EMP029@test.com",
       "email": "pernikaaggarwal23@gmail.com",
       "password": "Work@4321",
       "role": "viewer",
@@ -42,17 +42,7 @@
       "Icons": "",
       "id": 1
     },
-    {
-      "EmpId": "EMP028",
-      "Name": "Megha",
-      "Grade": "B2",
-      "Designation": "Senior software Engg",
-      "Project": "Team Service ",
-      "Skills": "Angular",
-      "Location": "Noida",
-      "ContactNo": "749384334",
-      "id": 2
-    },
+
     {
       "EmpId": "EMP024",
       "Name": "Yash",
